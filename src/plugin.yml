@@ -1,0 +1,6 @@
+name: ServerUtils
+main: Main.Main
+author: Copvampire
+description: Server Utilities
+version: 1.0
+depends: [ZotBox]
